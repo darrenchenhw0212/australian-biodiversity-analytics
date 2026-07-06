@@ -21,7 +21,7 @@ This project integrates official threatened species records with biodiversity th
 Explore the dashboard interactively on **Tableau Public**, or view the complete dashboard as a high-resolution image.
 
 <p align="center">
-  <a href="https://public.tableau.com/views/DarrenChen-DataVisualisation1/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link">
+  <a href="https://public.tableau.com/views/AustraliaBiodiversityAnalyticsDashboard/GitHubPortfolio?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
     <img src="https://img.shields.io/badge/View%20on-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white">
   </a>
 </p>
