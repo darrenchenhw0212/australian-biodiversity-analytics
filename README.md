@@ -26,7 +26,7 @@ Explore the complete interactive dashboard on Tableau Public:
 
 # Dashboard Preview
 
-<a href="tableau_images/dashboard_preview.png">
+<a href="images/tableau_dashboard_preview.png">
   <img src="images/tableau_dashboard_preview_cropped.png" width="100%">
 </a>
 
