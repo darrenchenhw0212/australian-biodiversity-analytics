@@ -137,13 +137,6 @@ The analysis highlights several important biodiversity patterns.
 ```text
 australian-biodiversity-analytics/
 │
-├── data/
-│   ├── raw/
-│   └── README.md
-│
-├── docs/
-│   └── dashboard_story.pdf
-│
 ├── images/
 │   ├── dashboard_preview.png
 │   └── tableau_data_pipeline.svg
