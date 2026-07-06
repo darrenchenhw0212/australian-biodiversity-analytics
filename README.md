@@ -87,7 +87,7 @@ These datasets provide both the conservation status of threatened species and th
 
 ---
 
-# Dashboard Features
+## Dashboard Features
 
 The dashboard combines multiple coordinated visualisations to support exploratory analysis.
 
@@ -112,8 +112,6 @@ This combination of guided storytelling and interactive exploration allows users
 ---
 
 # Interactive Features
-
-The dashboard supports several coordinated interactive behaviours.
 
 The dashboard uses coordinated interactions between visualisations, allowing selections in one chart to dynamically filter or highlight related information across other views.
 
