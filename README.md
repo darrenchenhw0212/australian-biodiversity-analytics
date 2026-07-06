@@ -79,8 +79,9 @@ The dashboard integrates two complementary public datasets.
 
 ### Original Data Sources
 
-- **Threatened Species State Lists (DCCEEW):** https://data.gov.au/data/dataset/ae652011-f39e-4c6c-91b8-1dc2d2dfee8f/resource/78401dce-1f40-49d3-92c4-3713d6e34974/download/20260206spcs.csv
-- **Taxon–Threat–Impact Dataset (Figshare):** https://figshare.com/articles/dataset/Taxon-threat-impact_dataset/13150943
+- **Threatened Species State Lists** — Published by the Australian Government Department of Climate Change, Energy, the Environment and Water (DCCEEW). [View dataset](https://data.gov.au/data/dataset/threatened-species-state-lists/resource/78401dce-1f40-49d3-92c4-3713d6e34974)
+
+- **Taxon–Threat–Impact Dataset** — Published on Figshare and based on the IUCN Threat Classification Scheme. [View dataset](https://figshare.com/articles/dataset/Taxon-threat-impact_dataset/13150943)
 
 These datasets provide both the conservation status of threatened species and the environmental factors contributing to biodiversity decline.
 
