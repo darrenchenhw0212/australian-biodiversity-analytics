@@ -19,7 +19,7 @@ This project integrates official threatened species records with biodiversity th
 ---
 ## Interactive Dashboard
 
-Explore the dashboard interactively on **Tableau Public**, or view the complete dashboard as a high-resolution image.
+Explore the dashboard interactively on **Tableau Public**, or view the complete dashboard as a high-resolution image below.
 
 <p align="center">
   <a href="https://public.tableau.com/views/AustraliaBiodiversityAnalyticsDashboard/GitHubPortfolio?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
@@ -76,6 +76,11 @@ The dashboard integrates two complementary public datasets.
 |----------|----------|
 | Threatened Species State Lists (DCCEEW) | Official EPBC conservation status and state/territory distribution |
 | Taxon–Threat–Impact Dataset (Figshare) | IUCN threat classifications and biodiversity threat relationships |
+
+### Original Data Sources
+
+- **Threatened Species State Lists (DCCEEW):** https://data.gov.au/data/dataset/ae652011-f39e-4c6c-91b8-1dc2d2dfee8f/resource/78401dce-1f40-49d3-92c4-3713d6e34974/download/20260206spcs.csv
+- **Taxon–Threat–Impact Dataset (Figshare):** https://figshare.com/articles/dataset/Taxon-threat-impact_dataset/13150943
 
 These datasets provide both the conservation status of threatened species and the environmental factors contributing to biodiversity decline.
 
@@ -138,11 +143,12 @@ The analysis highlights several important biodiversity patterns.
 australian-biodiversity-analytics/
 │
 ├── images/
-│   ├── dashboard_preview.png
+│   ├── tableau_dashboard_preview.png
+│   └── tableau_dashboard_preview_cropped.png
 │   └── tableau_data_pipeline.svg
 │
 ├── tableau/
-│   └── biodiversity_dashboard.twbx
+│   └── australia_biodiversity_analytics_dashboard.twbx
 │
 ├── LICENSE
 ├── README.md
