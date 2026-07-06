@@ -1,6 +1,7 @@
 # Australian Biodiversity Analytics
 
 ![Tableau](https://img.shields.io/badge/Tableau-Data%20Visualization-E97627?logo=tableau)
+[![Live Dashboard](https://img.shields.io/badge/View-Live%20Dashboard-E97627?logo=tableau&logoColor=white)](https://public.tableau.com/views/AustraliaBiodiversityAnalyticsDashboard/GitHubPortfolio?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 ![Data Analytics](https://img.shields.io/badge/Data-Analytics-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
@@ -28,7 +29,7 @@ Explore the dashboard interactively on **Tableau Public**, or view the complete 
 
 ---
 
-## Dashboard Preview
+## Static Dashboard Preview 
 
 <a href="images/tableau_dashboard_preview.png">
     <img src="images/tableau_dashboard_preview_cropped.png" width="100%">
@@ -38,7 +39,7 @@ Explore the dashboard interactively on **Tableau Public**, or view the complete 
 <i>Click the preview above to open the full-resolution dashboard image.</i>
 </p>
 
-**Figure 1.** Interactive Tableau dashboard exploring Australia's threatened species, conservation status, biodiversity threats, and relationships across species groups.
+**Figure 1.** Static preview of the interactive Tableau dashboard exploring Australia's threatened species, conservation status, biodiversity threats, and relationships across species groups.
 
 ---
 
@@ -127,6 +128,7 @@ The analysis highlights several important biodiversity patterns.
 - Tableau Public
 - Data Visualisation
 - Exploratory Data Analysis (EDA)
+- Dashboard Design
 
 ---
 
