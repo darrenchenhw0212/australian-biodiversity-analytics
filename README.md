@@ -101,6 +101,8 @@ The dashboard combines multiple coordinated visualisations to support explorator
 | Sankey Diagram | Relationships between species groups, conservation status, and biodiversity threats |
 | Summary Heatmap | Cross-comparison of species groups against major threat categories |
 
+---
+
 # Dashboard Design
 
 The dashboard follows a **narrative-driven analytical workflow**, where each visualisation answers a progressively deeper question about Australia's biodiversity.
