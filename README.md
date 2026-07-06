@@ -30,8 +30,8 @@ Explore the dashboard interactively on **Tableau Public**, or view the complete 
 
 ## Dashboard Preview
 
-<a href="images/dashboard_preview.png">
-    <img src="images/dashboard_preview_cropped.png" width="100%">
+<a href="images/tableau_dashboard_preview.png">
+    <img src="images/tableau_dashboard_preview_cropped.png" width="100%">
 </a>
 
 <p align="center">
