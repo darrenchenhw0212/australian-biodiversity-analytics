@@ -26,8 +26,8 @@ Explore the complete interactive dashboard on Tableau Public:
 
 # Dashboard Preview
 
-<a href="https://public.tableau.com/views/DarrenChen-DataVisualisation1/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link">
-  <img src="images/tableau_dashboard_preview.png" width="100%">
+<a href="images/dashboard_preview.png">
+  <img src="images/dashboard_preview_cropped.png" width="100%">
 </a>
 
 **Figure 1.** Interactive Tableau dashboard exploring Australia's threatened species, conservation status, biodiversity threats, and relationships across species groups.
