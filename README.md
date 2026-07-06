@@ -21,8 +21,7 @@ This project integrates official threatened species records with biodiversity th
 
 Explore the complete interactive dashboard on Tableau Public:
 
-**👉 https://public.tableau.com/views/DarrenChen-DataVisualisation1/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link**
-
+**https://public.tableau.com/views/AustraliaBiodiversityAnalyticsDashboard/GitHubPortfolio?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 ---
 
 # Dashboard Preview
