@@ -16,19 +16,27 @@ Australia is one of the world's biodiversity hotspots, home to many species foun
 This project integrates official threatened species records with biodiversity threat classifications to provide an interactive analytical dashboard that enables users to explore conservation status, identify major drivers of biodiversity decline, and understand relationships between species groups, threats, and geographic distribution.
 
 ---
+## Interactive Dashboard
 
-# Live Interactive Dashboard
+Explore the dashboard interactively on **Tableau Public**, or view the complete dashboard as a high-resolution image.
 
-Explore the complete interactive dashboard on Tableau Public:
+<p align="center">
+  <a href="https://public.tableau.com/views/DarrenChen-DataVisualisation1/Dashboard2?:language=en-GB&:display_count=n&:origin=viz_share_link">
+    <img src="https://img.shields.io/badge/View%20on-Tableau%20Public-E97627?style=for-the-badge&logo=tableau&logoColor=white">
+  </a>
+</p>
 
-**https://public.tableau.com/views/AustraliaBiodiversityAnalyticsDashboard/GitHubPortfolio?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link**
 ---
 
-# Dashboard Preview
+## Dashboard Preview
 
-<a href="images/tableau_dashboard_preview.png">
-  <img src="images/tableau_dashboard_preview_cropped.png" width="100%">
+<a href="images/dashboard_preview.png">
+    <img src="images/dashboard_preview_cropped.png" width="100%">
 </a>
+
+<p align="center">
+<i>Click the preview above to open the full-resolution dashboard image.</i>
+</p>
 
 **Figure 1.** Interactive Tableau dashboard exploring Australia's threatened species, conservation status, biodiversity threats, and relationships across species groups.
 
